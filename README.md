@@ -10,7 +10,7 @@
 - [x] Oracle Spatial: Układy LRS (29.11)
 - [x] XPath (06.12)
 - [x] XSL (13.12)
-- [ ] XQuery (20.12)
+- [x] XQuery (20.12)
 - [ ] Oracle Text (10.01)
 - [ ] Lucene (17.01)
 
