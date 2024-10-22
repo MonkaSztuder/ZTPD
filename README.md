@@ -11,7 +11,7 @@
 - [x] XPath (06.12)
 - [x] XSL (13.12)
 - [x] XQuery (20.12)
-- [ ] Oracle Text (10.01)
+- [x] Oracle Text (10.01)
 - [ ] Lucene (17.01)
 
 <br><br><br>
